@@ -24,3 +24,6 @@ Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el
 si, está mis keys de firebase, las dejé por temas de comodidad, pero no te preocupes, no hay nada importante en ellas.
 
 
+Hecho con ❤️ por @614Poste
+
+
